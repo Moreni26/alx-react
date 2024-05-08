@@ -1,0 +1,18 @@
+{
+	"devDependencies": {
+		
+		"gh-pages": "^6.1.1"
+	},
+
+	"homepage": "https://moreni26.github.io/alx-react",
+	"scripts": {
+		"predepoly": "npm run build",
+		"depoly": "gh-pages -d build --public task_0/dashboard/public",
+		"start": "react-scripts start",
+  		"build": "react-scripts build",
+  		"test": "react-scripts test",
+  		"eject": "react-scripts eject"
+	}
+}
+	
+
