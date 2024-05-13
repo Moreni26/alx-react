@@ -1,0 +1,19 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "A lightweight JavaScript library for creating interactive charts and graphs with ease. Powered by SVG and designed for simplicity, Chartify allows developers to visualize data in a customizable and intuitive way.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "alx-react"
+  },
+  "keywords": [
+    "my",
+    "package"
+  ],
+  "author": "Moreni26",
+  "license": "MIT"
+}
