@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  header, footer {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  @media (max-width: 768px) {
+    header, footer {
+      padding: 10px;
+    }
+  
+    main {
+      padding: 10px;
+    }
+  }
+  
