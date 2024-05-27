@@ -24,7 +24,7 @@ const listNotifications = [
 
 document.body.style.margin = 0;
 
-class App extends React.Component {
+class App extends Component {
   constructor(props) {
     super(props);
     this.handleKeyCombination = this.handleKeyCombination.bind(this);
